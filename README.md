@@ -1,5 +1,5 @@
 # Okavango Delta GRACE Analysis
-![Figure 1 overview](Figures/Figure1.pdf)
+![Figure 1 overview](Figures/Figure1.png)
 
 This repository contains data and code associated with the article:
 
