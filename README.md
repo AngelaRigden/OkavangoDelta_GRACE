@@ -1,4 +1,5 @@
 # Okavango Delta GRACE Analysis
+![Figure 1 overview](Figures/Figure1.pdf)
 
 This repository contains data and code associated with the article:
 
@@ -64,8 +65,8 @@ You can install the required Python packages using **pip**:
 To reproduce the figures, follow these steps:
 
 1.  **Clone the repository:**
-    `git clone [repository-url]`
-    `cd Okavango Delta GRACE Analysis`
+    `git clone git@github.com:AngelaRigden/OkavangoDelta_GRACE.git`
+    `cd OkavangoDelta_GRACE`
 2.  **Start Jupyter Notebook:**
     `jupyter notebook`
 3.  **Open and Run:** Open either `Figure_1.ipynb` or `Figures_2-5.ipynb` in your browser.
